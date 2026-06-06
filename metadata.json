@@ -1,0 +1,8 @@
+{
+  "name": "Remix: HFF-1 Cell Confluence and State Analyzer",
+  "description": "An interactive workspace to analyze HFF-1 (human foreskin fibroblast) cells, estimate confluence density, and review micro-morphological health states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
